@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Lewis 👋
+
+- I've been a Software Engineer for 5~ years. (Frontend → Mobile → Full-Stack → Backend)
+- I'm currently reading [Functional Programming in Scala](https://www.oreilly.com/library/view/functional-programming-in/9781617290657/).
+- My worked in E-commerce, Marketplaces and HealthTech.
 
 <!--
 **lewisd1996/lewisd1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
